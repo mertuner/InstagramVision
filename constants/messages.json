@@ -1,0 +1,82 @@
+[
+    {
+        "name": "Your note",
+        "picture": "https://images.unsplash.com/photo-1573140247632-f8fd74997d5c?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=1470&q=80",
+        "message": "That sounds fun! My day's been pretty busy, but I'm looking forward to some downtime later"
+    },
+    {
+        "name": "William",
+        "picture": "https://images.pexels.com/photos/1121796/pexels-photo-1121796.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "That sounds fun! My day's been pretty busy, but I'm looking forward to some downtime later"
+    },
+    {
+        "name": "Ella",
+        "picture": "https://images.pexels.com/photos/1462637/pexels-photo-1462637.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "That sounds fun! My day's been pretty busy, but I'm looking forward to some downtime later"
+    },
+    {
+        "name": "Alexander",
+        "picture": "https://images.pexels.com/photos/428333/pexels-photo-428333.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "That sounds fun! My day's been pretty busy, but I'm looking forward to some downtime later"
+    },
+    {
+        "name": "Sofia",
+        "picture": "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "That sounds fun! My day's been pretty busy, but I'm looking forward to some downtime later"
+    },
+    {
+        "name": "Thomas King",
+        "picture": "https://images.pexels.com/photos/220453/pexels-photo-220453.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "That sounds fun! My day's been pretty busy, but I'm looking forward to some downtime later"
+    },
+    {
+        "name": "Sarah Johnson",
+        "picture": "https://images.pexels.com/photos/774909/pexels-photo-774909.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "Hey there! Just finished a great workout. Feeling energized! 💪"
+    },
+    {
+        "name": "Michael Lee",
+        "picture": "https://images.pexels.com/photos/1222271/pexels-photo-1222271.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "Good morning, everyone! Ready to tackle the day ahead. Let's do this! 🌟"
+    },
+    {
+        "name": "Emily Chen",
+        "picture": "https://images.pexels.com/photos/1239291/pexels-photo-1239291.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "Had a fantastic time exploring a new hiking trail today. Nature is so beautiful! 🏞️"
+    },
+    {
+        "name": "David Rodriguez",
+        "picture": "https://images.pexels.com/photos/614810/pexels-photo-614810.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "Just finished a delicious homemade dinner. Cooking is therapeutic! 🍲"
+    },
+    {
+        "name": "Jessica Wilson",
+        "picture": "https://images.pexels.com/photos/733872/pexels-photo-733872.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "Happy Friday, everyone! Excited for the weekend ahead. Any fun plans? 🎉"
+    },    
+    {
+        "name": "Olivia Anderson",
+        "picture": "https://images.pexels.com/photos/712513/pexels-photo-712513.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "Hey, everyone! Just got back from a weekend getaway. Missing the beach already! 🏖️"
+    },
+    {
+        "name": "Daniel Smith",
+        "picture": "https://images.pexels.com/photos/874158/pexels-photo-874158.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "Good evening, friends! Had a productive day at work. Time to unwind and relax. 🌙"
+    },
+    {
+        "name": "Sophia Kim",
+        "picture": "https://images.pexels.com/photos/1065084/pexels-photo-1065084.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "Just finished a captivating book! Love getting lost in fictional worlds. 📚"
+    },
+    {
+        "name": "Benjamin Brown",
+        "picture": "https://images.pexels.com/photos/775358/pexels-photo-775358.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "Hello, everyone! Busy day ahead, but feeling motivated and ready to conquer it all! 💼"
+    },
+    {
+        "name": "Ava Johnson",
+        "picture": "https://images.pexels.com/photos/1587009/pexels-photo-1587009.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+        "message": "Had a delightful picnic with friends today. Cherishing these simple moments. 🍉"
+    }
+]
