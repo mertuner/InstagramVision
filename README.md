@@ -1,4 +1,7 @@
-This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
+This is a new just a fun project. My imagination of how Instagram app'd look on Apples' new VisionOS.
+
+![alt text](ss.png "App")
+
 
 # Getting Started
 
