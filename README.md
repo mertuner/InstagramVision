@@ -1,4 +1,4 @@
-This is a new just a fun project. My imagination of how Instagram app'd look on Apples' new VisionOS.
+This is just a fun project. My imagination of how Instagram app'd look on Apples' new VisionOS.
 
 ![alt text](ss.png "App")
 
